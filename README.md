@@ -1,1 +1,1 @@
-My first readme
+ALX Program to learning C language. 
